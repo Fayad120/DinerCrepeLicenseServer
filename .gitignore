@@ -1,0 +1,6 @@
+﻿bin/
+obj/
+licenses.db
+*.user
+*.suo
+.vs/
